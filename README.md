@@ -1,15 +1,16 @@
 # sparkmi_primeraapp01
 
-clonación del Framewor spark para crear API con Java 
+CLONACIÓN DEL FRAMEWORK SPARK PARA CREAR API CON JAVA
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/ac6f2650-9a04-426c-abfc-489cd9d00ec4)
 
-Instalacion Maven 
+INSTALACIÓN MAVEN
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/43dc47d7-bc53-4099-bfa4-576719397967)
 
-Instalacion del kernel de linux (WSL) 
-![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/f440e21a-1914-41f4-b83a-701dca595c76)
 
-Creando carpeta ARSWtalleres dentro de la raíz de mi proyecto 
+INSTALACIÓN DEL KERNEL DE LINUX (WSL)
+![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/ee2affe6-c13f-4fdc-b846-855c606b6679)
+
+CREANDO CARPETA, “ARSWTALLERES” DENTRO DE LA RAÍZ DEL PROYECTO 
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/c91adc3b-4983-4a4d-9b2c-9a88fae338e7)
 
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/4a2780ee-e806-4f58-baf4-8205c65b5873)
@@ -26,15 +27,14 @@ COMPILACION CON MAVEN (mvn clean install)
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/996cd495-18a9-4ad6-aaec-a6a740b86e28)
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/2e08c2df-e0a7-4ce4-8899-ca35315dc00f)
 
-DEPENDENCIAS EN NETBEANS 
-Se confirman que se cuenta con todas las dependencias del proyecto para funcionar 
+DEPENDENCIAS EN NETBEANS: 
+Se confirma que se cuenta con todas las dependencias del proyecto para funcionar 
 
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/0a47239a-ff78-4db3-b712-827d5c3177e4)
 
-PRUEBA DE LOCALHOT Puerto 4567
+PRUEBA DE LOCALHOST PUERTO 4567
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/0f81bc10-a202-46f4-af8d-e0c0e524645a)
-
-CREAR ARCHIVO  DOCKER FILE
+CREAR ARCHIVO DOCKER FILE
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/708020e4-f620-4e80-a0b5-410ec0f09e94)
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/ee917bef-e1eb-4cd3-b3e0-9613e961c84c)
 
@@ -51,21 +51,21 @@ SE VERIFICA QUE LA IMAGEN ESTE CREADA
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/1274b050-ac44-4dca-976f-05b75fd9a825)
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/ffd28c46-3a8f-48d1-938b-21705433df22)
 
-A PARTIR DE LA IMAGEN CREADA CREE TRES INSTANCIAS DE UN CONTENEDOR DOCKER INDEPENDIENTE DE LA CONSOLA
+A PARTIR DE LA IMAGEN CREADA, SE CREARON TRES INSTANCIAS DE UN CONTENEDOR DOCKER, INDEPENDIENTE DE LA CONSOLA EJEMPLO:
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/65674939-1085-44b9-9573-104d5869395e)
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/d9bac303-2445-4f5a-a4f2-2057739008d0)
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/3e108441-9cd3-4802-b20d-86abb79a6b43)
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/fae4ea77-921c-44bc-aa44-4771f048d025)
 
-SE VERIFICA QUE ESTAN HABILITADO EL SITIO CON DOCKER Y CON LOS PUERTOS ACTIVOS 
+SE VERIFICA QUE ESTÁ HABILITADO EL SITIO CON DOCKER Y CON LOS PUERTOS ACTIVOS 
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/e80f01a7-d8d9-4451-97d7-07c9e3a38095)
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/d5933f0a-1f63-4ac8-9f25-b1a58fcbd047)
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/4bd74b24-9aaa-4fd0-ae8f-92ee9c6fa9e1)
 
-SE VERIFICA QUE EL CONTENEDOR ESTA CORRIENDO 
+SE VERIFICA QUE EL CONTENEDOR ESTA CORRIENDO. 
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/3db82c19-8304-42d1-b093-dfce57827814)
 
-CREAR ARCHIVO YAML
+CREACIÓN ARCHIVO YAML
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/f424f56f-07a9-47c5-bcb8-a3731a8a6fba)
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/71aeee4a-dec3-4ab5-8f64-07533f86e351)
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/ff0f8dae-db9a-4e5f-bcac-ed19d8be6b63)
@@ -187,6 +187,11 @@ Se ingresa al repositorio para verificar  que el proyecto, se encuentre en el re
 
 AGREGAR ARCHIVO README
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/f9c66011-5665-44ed-8a85-74645af9feb4)
+
+DESCRIPCIÓN DE ARQUITECTURA 
+
+![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/b4c4213e-a4ae-431b-91aa-48d521475ead)
+
 
 
 
