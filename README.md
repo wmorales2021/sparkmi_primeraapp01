@@ -191,7 +191,7 @@ DESCRIPCIÓN DE ARQUITECTURA
 
 Se contruyó un servicio rest "Hello" con framework de spark java, el cual se ejecuta a través de la maquina virtual de java y se consume de manera local a través del puerto 4567.
 
-Se procedió a ejecutar microcontenedores para consumir el servicio "hello" a través de los puertos 34000, 34001 y 34002), acto seguido,se creo la imagen en docker hub para luego ser instalada en la maquina virtual de AWS, consumiendo el puerto 42000 con enlace de puerto fisico 6000.
+Se procedió a ejecutar microcontenedores para consumir el servicio "hello" a través de los puertos 34000, 34001 y 34002), acto seguido,se creó la imagen en docker hub para luego ser instalada en la maquina virtual de AWS, consumiendo el puerto 42000 con enlace de puerto fisico 6000.
 
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/b4c4213e-a4ae-431b-91aa-48d521475ead)
 
