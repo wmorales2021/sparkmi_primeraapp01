@@ -22,7 +22,7 @@ CREANDO PROYECTO CON MAVEN
 PRUEBA LOCALHOST, CORRIENDO EL PROYECTO 
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/bb2be7e9-04e4-4323-8b27-5f45d29322c4)
 
-COMPILACION CON MAVEN (mvn clean install)
+COMPILACIÓN CON MAVEN (mvn clean install)
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/ee801cc6-9212-42fd-98de-e7ab56bc293e)
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/996cd495-18a9-4ad6-aaec-a6a740b86e28)
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/2e08c2df-e0a7-4ce4-8899-ca35315dc00f)
@@ -99,7 +99,7 @@ CREACIÓN DE REFERENCIA DE LA IMAGEN A SUBIR AL REPOSITORIO PÚBLICO, USUARIO Y 
    ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/452f8a08-25c3-403f-95a2-81e2b9a9932a)
    ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/bcf26b34-da18-478a-9f91-49c55afab93d)
 
-   MUESTRA DNS DASHBOARD DE LOS SERVICIOS 
+  MOSTRAR DNS DASHBOARD DE LOS SERVICIOS 
    ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/a7d70fd6-0d8a-4adf-888b-5454f26e721f)
 
    CONEXIÓN A LA MAQUINA VIRTUAL
@@ -107,44 +107,43 @@ CREACIÓN DE REFERENCIA DE LA IMAGEN A SUBIR AL REPOSITORIO PÚBLICO, USUARIO Y 
 
    ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/4f505aa7-dde5-4851-8dcf-d992bb00541a)
 
-   SE ACTUALIZA EL GESTOR DE PAQUETES DE LA DISTRIBUCION DE LINUX  
+  ACTUALIZAR EL GESTOR DE PAQUETES DE LA DISTRIBUCION DE LINUX  
 
    ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/49c765e5-9e98-4da0-932d-6b072f76201a)
    ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/76c7c31c-96e3-41ec-86b4-ea3f1304f1b3)
 
-   INSTALACIÓN DE DOCKER EN LA MAQUINA VIRTUAL de AWS 
+   INSTALACIÓN DE DOCKER EN LA MAQUINA VIRTUAL DE AWS 
    ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/84cda4d9-abc2-4d53-8976-1450d7581b6c)
    ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/c28415d2-effe-48c9-af3c-25fbe7047b63)
    ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/8697ac89-ba41-4bfd-8bbe-aeb33f005a08)
 
-   INICIAMOS SERVICIOS EN LA MAQUINA VIRTUAL DE AWS 
+  INICIACIÓN DE SERVICIOS EN LA MAQUINA VIRTUAL DE AWS 
    ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/ba2a0107-4e83-44a7-9dfc-19b53d93154a)
    ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/3b600317-72ca-4115-b374-5e1810ddf463)
 
-   
-SE PRUEBA  QUE EL COMANDO FUNCIONA
+   PRUEBAS DE FUNCIONAMIENTO DE COMANDO 
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/4b2bcf53-5bc2-4132-a430-5fb0483f2894)
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/aaacc14e-5fc0-4721-8f22-f8c89acfe40e)
 
-SE CREA UN CONTENEDOR O INSTANCIA DE LA IMAGEN PUBLICA QUE SE ENCUENTRA EN EL REPOSITORIO DE DOCKER HUB
+CREACIÓN DE UN CONTENEDOR O INSTANCIA DE LA IMAGEN PÚBLICA QUE SE ENCUENTRA EN EL REPOSITORIO DE DOCKER HUB
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/56fc7f13-7d92-4e85-929a-4a9d0a75a6e7)
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/dea00505-c533-425e-9f80-97c3e165b70a)
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/77b2482f-8047-448a-bfe8-ab5a519b9855)
 
-SE REVISA LO CONTENEDORES QUE ESTAN EN EJECUCIÓN ACTIVOS 
+REVISION DE CONTENEDORES QUE ESTAN EN EJECUCIÓN ACTIVOS 
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/50907441-3b66-4119-8c35-0974495c918e)
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/b521b606-9662-43cf-9fa5-b894dcbfab87)
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/68cc4e18-37e0-4dd5-898e-fbc0cdade460)
 
-SE CONFIGURAN LAS REGLAS PARA QUE CUALQUIERA PUEDA ACCEDER DESDE INTERNET Y CONSUMIR EL SERVICIOS A TRAVES DEL PUERTO 42000
+CONFIGURACIÓN DE LAS REGLAS PARA QUE CUALQUIERA PUEDA ACCEDER DESDE INTERNET Y CONSUMIR EL SERVICIOS A TRAVÉS DEL PUERTO 42000
 
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/366d5cbd-241d-45fb-af68-dabe530be2a5)
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/02d49346-60ce-4a32-8986-84926c09d3d3)
 
-http://ec2-35-175-205-168.compute-1.amazonaws.com:42002/hello
+http://ec2-35-175-205-168.compute-1.amazonaws.com:42000/hello
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/e91f9679-747f-4461-a6da-a793684a2b5f)
 
-El código del proyecto en un repositorio de GITHUB
+EL CODIGO DEL PROYECTO EN UN REPOSOSITORIO DE GITHUB
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/f8510a05-f82a-4fb6-b5e2-50b513abb4f8)
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/c00112e1-68d7-4593-b783-8cc657ad573f)
 
@@ -155,10 +154,10 @@ SE PROCEDE A ABRIR EL PROYECTO EN GITBASH
 CREACIÓN DEL REPOSITORIO REMOTO 
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/bd59929a-1aa0-4dd5-9a02-4641f696bd7d)
 
-SE REVISA EL ESTADO ACTUAL DEL REPOSITORIO REMOTO 
+REVISION DEL ESTADO ACTUAL DEL REPOSITORIO REMOTO 
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/98df49ff-cead-4b09-85f8-fa0d9be32dd0)
 
-LA SIGUIENTE IMAGEN NOS MUESTRA QUE DE MOMENTO NO SE HA CARGADO EL PROYECTO AL REPOSITORIO REMOTO 
+LA SIGUIENTE IMAGEN NOS MUESTRA, QUE DE MOMENTO NO SE HA CARGADO EL PROYECTO AL REPOSITORIO REMOTO 
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/779370e5-16b1-4249-b2d7-3907c55cad67)
 
 POR LO ANTERIOR, EJECUTAMOS EL COMANDO GIT ADD . PARA CARGAR EL PROYECTO AL REPOSITORIO EN GIT 
@@ -180,7 +179,7 @@ GIT LOG
 Se usa el comando git log, con el fin de verificar los commit realizados en el repositorio y asegurarnos que, efectivamente aplicaron los cambios, como se puede ver a continuación sí fueron aplicados
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/1953f8fd-ba95-4193-91d0-e06bd76234a9)
 
-INGRESAR A GITHUB 
+INGRESAMOS A GITHUB 
 
 Se ingresa al repositorio para verificar  que el proyecto, se encuentre en el repositorio 
 ![image](https://github.com/wmorales2021/sparkmi_primeraapp01/assets/79813722/97a36561-0f0a-4b21-bce5-c90a5651e30d)
